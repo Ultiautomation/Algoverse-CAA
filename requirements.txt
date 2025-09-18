@@ -12,7 +12,7 @@ requests
 seaborn
 torch==2.2.2
 tqdm
-transformers==4.41.0
+transformers==4.31.0
 ipywidgets==8.1.1
 scipy
 accelerate
